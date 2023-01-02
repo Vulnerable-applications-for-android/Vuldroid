@@ -34,5 +34,5 @@ jobs:
       uses: gradle/gradle-build-action@3fbe033aaae657f011f88f29be9e65ed26bd29ef
       with:
         gradle-version: 7.3.3
-        build-root-directory: /home/runner/work/Vuldroid/Vuldroid/VuldroidApp\ Code/
+        build-root-directory: /home/runner/work/Vuldroid/Vuldroid/VuldroidApp_Code/
         arguments: build
